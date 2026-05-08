@@ -170,7 +170,7 @@ button img {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 661apx) {
+@media screen and (min-width: 576px) {
   main {
     width: 100%;
     height: 100vh;
